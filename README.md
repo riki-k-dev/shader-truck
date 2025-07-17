@@ -2,7 +2,7 @@
 
 An interactive, animated **Cybertruck** experience built with **React Three Fiber**, **Three.js**, and custom **GLSL shaders**. Explore dynamic shader effects like **polar disks** and **vertical stripes**, animated with time and customizable via a real-time **Leva control panel**.
 
-[![Hero Screenshot](public/heropage.png)](https://cybertruck-shader.vercel.app/)
+[![Hero Screenshot](public/heropage.png)](https://shader-truck.netlify.app/)
 
 ---
 
@@ -44,7 +44,7 @@ An interactive, animated **Cybertruck** experience built with **React Three Fibe
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/cybertruck-shader.git
+git clone https://github.com/riki-k-dev/shader-truck.git
 
 # Navigate into the project folder
 cd cybertruck-shader
